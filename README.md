@@ -1,1 +1,1 @@
-# bioinformatics_freecodecamp
+# bioinformatics_project
